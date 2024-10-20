@@ -2,7 +2,7 @@
 HUK_Coburg_CodingChallenge
 
 # Sentiment Analysis:
-Ich hab mich für ein Finetuning von BERT entschieden. Primär weil es mich interessiert hat, wie gut das Funktionieren würde.
+Ich hab mich für ein Finetuning von BERT entschieden. Primär weil es mich interessiert hat, wie gut das funktionieren würde.
 Weitere Erklärungen und Beschreibungen finden sich im ersten CodeBlock im Notebook, in den Kommentaren und am Ende.
 Ps: Mein Cuda hat zwischendurch auf einmal aufgehört zu funktionieren, weswegen das Training auf Colab gelaufen ist und Inference auf CPU läuft.
 
